@@ -1,9 +1,9 @@
 # react router dom
 
-* * Nested Route
+* Nested Route
 
-* * Data Fetch And Navigation pages
+* Data Fetch And Navigation pages
 
-* * React Router Loader Data Fetching With UserLoader Hooks
+* React Router Loader Data Fetching With UserLoader Hooks
 
-* * Page Not Found 404 Page Show
+* Page Not Found 404 Page Show
